@@ -3,13 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D50120EC-78E1-4E83-AEA5-1FB929EAA500}|..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\MedicalTranscriptionSystem.Contracts.csproj|c:\\users\\vgd b2\\downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\csmwebsite2023\\csmwebsite2023.contracts\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{883FB1EA-25E3-4E7B-A31B-51E251DC7294}|..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.MySql\\MedicalTranscriptionSystem.MySql.csproj|c:\\users\\vgd b2\\downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\csmwebsite2023\\csmwebsite2023.mysql\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D50120EC-78E1-4E83-AEA5-1FB929EAA500}|..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\MedicalTranscriptionSystem.Contracts.csproj|c:\\users\\vgd b2\\downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\csmwebsite2023\\csmwebsite2023.contracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{883FB1EA-25E3-4E7B-A31B-51E251DC7294}|..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.MySql\\MedicalTranscriptionSystem.MySql.csproj|c:\\users\\vgd b2\\downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\csmwebsite2023\\csmwebsite2023.mysql\\datarepositoryextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4457D4D1-5CE0-4930-9069-F7439450F124}|..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.EntityFramework\\MedicalTranscriptionSystem.EntityFramework.csproj|c:\\users\\vgd b2\\downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\csmwebsite2023\\csmwebsite2023.entityframework\\defaultdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF250E0-8C96-49DF-8988-394EF0F3F176}|..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Data\\MedicalTranscriptionSystem.Data.csproj|c:\\users\\vgd b2\\downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\csmwebsite2023\\csmwebsite2023.data\\models\\security\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF250E0-8C96-49DF-8988-394EF0F3F176}|..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Data\\MedicalTranscriptionSystem.Data.csproj|c:\\users\\vgd b2\\downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\csmwebsite2023\\csmwebsite2023.data\\models\\common\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50120EC-78E1-4E83-AEA5-1FB929EAA500}|..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\MedicalTranscriptionSystem.Contracts.csproj|c:\\users\\vgd b2\\downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\csmwebsite2023\\csmwebsite2023.contracts\\tags\\tagsmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D50120EC-78E1-4E83-AEA5-1FB929EAA500}|..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\MedicalTranscriptionSystem.Contracts.csproj|c:\\users\\vgd b2\\downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\csmwebsite2023\\csmwebsite2023.contracts\\users\\usersmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50120EC-78E1-4E83-AEA5-1FB929EAA500}|..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\MedicalTranscriptionSystem.Contracts.csproj|c:\\users\\vgd b2\\downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\csmwebsite2023\\csmwebsite2023.contracts\\tags\\itagsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D50120EC-78E1-4E83-AEA5-1FB929EAA500}|..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\MedicalTranscriptionSystem.Contracts.csproj|c:\\users\\vgd b2\\downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\csmwebsite2023\\csmwebsite2023.contracts\\users\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -18,13 +33,22 @@
       "AbsoluteMoniker": "D:0:0:{D50120EC-78E1-4E83-AEA5-1FB929EAA500}|..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\MedicalTranscriptionSystem.Contracts.csproj|c:\\users\\vgd b2\\downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\csmwebsite2023\\csmwebsite2023.contracts\\users\\usersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D50120EC-78E1-4E83-AEA5-1FB929EAA500}|..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\MedicalTranscriptionSystem.Contracts.csproj|c:\\users\\vgd b2\\downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\csmwebsite2023\\csmwebsite2023.contracts\\tags\\itagsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D50120EC-78E1-4E83-AEA5-1FB929EAA500}|..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\MedicalTranscriptionSystem.Contracts.csproj|c:\\users\\vgd b2\\downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\csmwebsite2023\\csmwebsite2023.contracts\\treatments\\treatmentsmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50120EC-78E1-4E83-AEA5-1FB929EAA500}|..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\MedicalTranscriptionSystem.Contracts.csproj|c:\\users\\vgd b2\\downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\csmwebsite2023\\csmwebsite2023.contracts\\treatments\\treatmentsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50120EC-78E1-4E83-AEA5-1FB929EAA500}|..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\MedicalTranscriptionSystem.Contracts.csproj|c:\\users\\vgd b2\\downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\csmwebsite2023\\csmwebsite2023.contracts\\treatments\\itreatmentsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D50120EC-78E1-4E83-AEA5-1FB929EAA500}|..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\MedicalTranscriptionSystem.Contracts.csproj|c:\\users\\vgd b2\\downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\csmwebsite2023\\csmwebsite2023.contracts\\tags\\tagsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D50120EC-78E1-4E83-AEA5-1FB929EAA500}|..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\MedicalTranscriptionSystem.Contracts.csproj|c:\\users\\vgd b2\\downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\csmwebsite2023\\csmwebsite2023.contracts\\tags\\tagsmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D50120EC-78E1-4E83-AEA5-1FB929EAA500}|..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\MedicalTranscriptionSystem.Contracts.csproj|c:\\users\\vgd b2\\downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\csmwebsite2023\\csmwebsite2023.contracts\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50120EC-78E1-4E83-AEA5-1FB929EAA500}|..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\MedicalTranscriptionSystem.Contracts.csproj|c:\\users\\vgd b2\\downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\csmwebsite2023\\csmwebsite2023.contracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|c:\\users\\vgd b2\\desktop\\medical transcription system\\medicaltranscriptionsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -38,11 +62,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\VGD B2\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.MySql\\Repository.cs",
+              "RelativeDocumentMoniker": "..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.MySql\\Repository.cs",
+              "ToolTip": "C:\\Users\\VGD B2\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.MySql\\Repository.cs",
+              "RelativeToolTip": "..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.MySql\\Repository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T03:49:41.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataRepositoryExtension.cs",
+              "DocumentMoniker": "C:\\Users\\VGD B2\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.MySql\\DataRepositoryExtension.cs",
+              "RelativeDocumentMoniker": "..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.MySql\\DataRepositoryExtension.cs",
+              "ToolTip": "C:\\Users\\VGD B2\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.MySql\\DataRepositoryExtension.cs",
+              "RelativeToolTip": "..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.MySql\\DataRepositoryExtension.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T03:49:18.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "DefaultDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\VGD B2\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.EntityFramework\\DefaultDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.EntityFramework\\DefaultDbContext.cs",
+              "ToolTip": "C:\\Users\\VGD B2\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.EntityFramework\\DefaultDbContext.cs",
+              "RelativeToolTip": "..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.EntityFramework\\DefaultDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T03:46:26.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TreatmentsMap.cs",
+              "DocumentMoniker": "C:\\Users\\VGD B2\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\Treatments\\TreatmentsMap.cs",
+              "RelativeDocumentMoniker": "..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\Treatments\\TreatmentsMap.cs",
+              "ToolTip": "C:\\Users\\VGD B2\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\Treatments\\TreatmentsMap.cs",
+              "RelativeToolTip": "..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\Treatments\\TreatmentsMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T03:42:25.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TreatmentsDto.cs",
+              "DocumentMoniker": "C:\\Users\\VGD B2\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\Treatments\\TreatmentsDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\Treatments\\TreatmentsDto.cs",
+              "ToolTip": "C:\\Users\\VGD B2\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\Treatments\\TreatmentsDto.cs",
+              "RelativeToolTip": "..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\Treatments\\TreatmentsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T03:41:43.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITreatmentsService.cs",
+              "DocumentMoniker": "C:\\Users\\VGD B2\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\Treatments\\ITreatmentsService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\Treatments\\ITreatmentsService.cs",
+              "ToolTip": "C:\\Users\\VGD B2\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\Treatments\\ITreatmentsService.cs",
+              "RelativeToolTip": "..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\Treatments\\ITreatmentsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T03:41:22.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\VGD B2\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Data\\Models\\Common\\BaseModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Data\\Models\\Common\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\VGD B2\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Data\\Models\\Common\\BaseModel.cs",
+              "RelativeToolTip": "..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Data\\Models\\Common\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T03:39:56.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\VGD B2\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Data\\Models\\Security\\User.cs",
+              "RelativeDocumentMoniker": "..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Data\\Models\\Security\\User.cs",
+              "ToolTip": "C:\\Users\\VGD B2\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Data\\Models\\Security\\User.cs",
+              "RelativeToolTip": "..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Data\\Models\\Security\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T03:39:43.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "UsersMap.cs",
               "DocumentMoniker": "C:\\Users\\VGD B2\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\Users\\UsersMap.cs",
               "RelativeDocumentMoniker": "..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\Users\\UsersMap.cs",
@@ -55,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "UsersDto.cs",
               "DocumentMoniker": "C:\\Users\\VGD B2\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\Users\\UsersDto.cs",
               "RelativeDocumentMoniker": "..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\Users\\UsersDto.cs",
@@ -68,20 +196,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "IUsersService.cs",
               "DocumentMoniker": "C:\\Users\\VGD B2\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\Users\\IUsersService.cs",
               "RelativeDocumentMoniker": "..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\Users\\IUsersService.cs",
               "ToolTip": "C:\\Users\\VGD B2\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\Users\\IUsersService.cs",
               "RelativeToolTip": "..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\Users\\IUsersService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T03:35:33.22Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 14,
               "Title": "IService.cs",
               "DocumentMoniker": "C:\\Users\\VGD B2\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\IService.cs",
               "RelativeDocumentMoniker": "..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\IService.cs",
@@ -94,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 15,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\VGD B2\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\IRepository.cs",
               "RelativeDocumentMoniker": "..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\IRepository.cs",
@@ -107,33 +235,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "TagsMap.cs",
               "DocumentMoniker": "C:\\Users\\VGD B2\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\Tags\\TagsMap.cs",
               "RelativeDocumentMoniker": "..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\Tags\\TagsMap.cs",
               "ToolTip": "C:\\Users\\VGD B2\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\Tags\\TagsMap.cs",
               "RelativeToolTip": "..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\Tags\\TagsMap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T03:32:34.008Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ITagsService.cs",
               "DocumentMoniker": "C:\\Users\\VGD B2\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\Tags\\ITagsService.cs",
               "RelativeDocumentMoniker": "..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\Tags\\ITagsService.cs",
               "ToolTip": "C:\\Users\\VGD B2\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\Tags\\ITagsService.cs",
               "RelativeToolTip": "..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\Tags\\ITagsService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T03:31:13.95Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "TagsDto.cs",
               "DocumentMoniker": "C:\\Users\\VGD B2\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\Tags\\TagsDto.cs",
               "RelativeDocumentMoniker": "..\\..\\Downloads\\csm_website_is_2023-main\\csm_website_is_2023-main\\CSMWebsite2023\\CSMWebsite2023.Contracts\\Tags\\TagsDto.cs",
@@ -146,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "MedicalTranscriptionSystem",
               "DocumentMoniker": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\MedicalTranscriptionSystem.csproj",
               "RelativeDocumentMoniker": "MedicalTranscriptionSystem.csproj",
