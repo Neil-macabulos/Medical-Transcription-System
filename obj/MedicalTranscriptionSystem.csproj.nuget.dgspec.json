@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VGD B2\\Downloads\\Medical-Transcription-System-main\\Medical-Transcription-System\\MedicalTranscriptionSystem.csproj": {}
+    "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\MedicalTranscriptionSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VGD B2\\Downloads\\Medical-Transcription-System-main\\Medical-Transcription-System\\MedicalTranscriptionSystem.csproj": {
+    "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\MedicalTranscriptionSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VGD B2\\Downloads\\Medical-Transcription-System-main\\Medical-Transcription-System\\MedicalTranscriptionSystem.csproj",
+        "projectUniqueName": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\MedicalTranscriptionSystem.csproj",
         "projectName": "MedicalTranscriptionSystem",
-        "projectPath": "C:\\Users\\VGD B2\\Downloads\\Medical-Transcription-System-main\\Medical-Transcription-System\\MedicalTranscriptionSystem.csproj",
+        "projectPath": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\MedicalTranscriptionSystem.csproj",
         "packagesPath": "C:\\Users\\VGD B2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VGD B2\\Downloads\\Medical-Transcription-System-main\\Medical-Transcription-System\\obj\\",
+        "outputPath": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\VGD B2\\AppData\\Roaming\\NuGet\\NuGet.Config",
