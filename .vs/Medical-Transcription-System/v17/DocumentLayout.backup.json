@@ -3,20 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|c:\\users\\vgd b2\\desktop\\medical transcription system\\pages\\admin\\users\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|solutionrelative:pages\\admin\\users\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|c:\\users\\vgd b2\\desktop\\medical transcription system\\pages\\admin\\treatments\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|solutionrelative:pages\\admin\\treatments\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|c:\\users\\vgd b2\\desktop\\medical transcription system\\pages\\admin\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|solutionrelative:pages\\admin\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|c:\\users\\vgd b2\\desktop\\medical transcription system\\pages\\admin\\treatments\\add.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|solutionrelative:pages\\admin\\treatments\\add.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|c:\\users\\vgd b2\\desktop\\medical transcription system\\pages\\admin\\treatments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|solutionrelative:pages\\admin\\treatments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|c:\\users\\vgd b2\\desktop\\medical transcription system\\pages\\admin\\tags\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|solutionrelative:pages\\admin\\tags\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|c:\\users\\vgd b2\\desktop\\medical transcription system\\pages\\admin\\tags\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|solutionrelative:pages\\admin\\tags\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|c:\\users\\vgd b2\\desktop\\medical transcription system\\pages\\admin\\tags\\add.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|solutionrelative:pages\\admin\\tags\\add.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|c:\\users\\vgd b2\\desktop\\medical transcription system\\pages\\admin\\treatments\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|solutionrelative:pages\\admin\\treatments\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|c:\\users\\vgd b2\\desktop\\medical transcription system\\pages\\admin\\tags\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|solutionrelative:pages\\admin\\tags\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|c:\\users\\vgd b2\\desktop\\medical transcription system\\pages\\admin\\tags\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|solutionrelative:pages\\admin\\tags\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|c:\\users\\vgd b2\\desktop\\medical transcription system\\pages\\provider\\consultations\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|solutionrelative:pages\\provider\\consultations\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|c:\\users\\vgd b2\\desktop\\medical transcription system\\pages\\provider\\consultations\\addpatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|solutionrelative:pages\\provider\\consultations\\addpatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|c:\\users\\vgd b2\\desktop\\medical transcription system\\pages\\provider\\consultations\\addpatient.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|solutionrelative:pages\\provider\\consultations\\addpatient.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|c:\\users\\vgd b2\\desktop\\medical transcription system\\pages\\manage\\treatments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|solutionrelative:pages\\manage\\treatments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|c:\\users\\vgd b2\\desktop\\medical transcription system\\pages\\manage\\tags\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|solutionrelative:pages\\manage\\tags\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|c:\\users\\vgd b2\\desktop\\medical transcription system\\pages\\admin\\consultations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|solutionrelative:pages\\admin\\consultations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|c:\\users\\vgd b2\\desktop\\medical transcription system\\pages\\admin\\consultations\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|solutionrelative:pages\\admin\\consultations\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|c:\\users\\vgd b2\\desktop\\medical transcription system\\pages\\admin\\users\\invite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|solutionrelative:pages\\admin\\users\\invite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|c:\\users\\vgd b2\\desktop\\medical transcription system\\pages\\admin\\treatments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2916352-1B7D-46D5-91F9-D856B1D66A08}|MedicalTranscriptionSystem.csproj|solutionrelative:pages\\admin\\treatments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +74,214 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Admin\\Users\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Admin\\Users\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Admin\\Users\\Index.cshtml.cs",
-              "RelativeToolTip": "Pages\\Admin\\Users\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "AddPatient.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Provider\\Consultations\\AddPatient.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Provider\\Consultations\\AddPatient.cshtml.cs",
+              "ToolTip": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Provider\\Consultations\\AddPatient.cshtml.cs",
+              "RelativeToolTip": "Pages\\Provider\\Consultations\\AddPatient.cshtml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T13:59:57.244Z",
+              "WhenOpened": "2024-11-15T03:41:14.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddPatient.cshtml",
+              "DocumentMoniker": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Provider\\Consultations\\AddPatient.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Provider\\Consultations\\AddPatient.cshtml",
+              "ToolTip": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Provider\\Consultations\\AddPatient.cshtml",
+              "RelativeToolTip": "Pages\\Provider\\Consultations\\AddPatient.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T03:40:55.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Provider\\Consultations\\Patient.cs",
+              "RelativeDocumentMoniker": "Pages\\Provider\\Consultations\\Patient.cs",
+              "ToolTip": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Provider\\Consultations\\Patient.cs",
+              "RelativeToolTip": "Pages\\Provider\\Consultations\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:36:50.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Manage\\Treatments\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Manage\\Treatments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Manage\\Treatments\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Manage\\Treatments\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T03:23:28.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Manage\\Tags\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Manage\\Tags\\Index.cshtml",
+              "ToolTip": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Manage\\Tags\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Manage\\Tags\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T03:23:18.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Admin\\Consultations\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Consultations\\Index.cshtml",
+              "ToolTip": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Admin\\Consultations\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Consultations\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T03:04:56.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Admin\\Tags\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Tags\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Admin\\Tags\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Tags\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T03:02:27.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Admin\\Treatments\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Treatments\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Admin\\Treatments\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Treatments\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T03:01:42.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Admin\\Treatments\\Add.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Treatments\\Add.cshtml",
+              "ToolTip": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Admin\\Treatments\\Add.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Treatments\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T03:00:05.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Admin\\Tags\\Add.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Tags\\Add.cshtml",
+              "ToolTip": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Admin\\Tags\\Add.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Tags\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T03:00:00.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Admin\\Treatments\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Treatments\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Admin\\Treatments\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin\\Treatments\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:57:03.932Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Admin\\Users\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Admin\\Users\\Index.cshtml",
-              "ToolTip": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Admin\\Users\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Admin\\Users\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-17T13:59:49.55Z",
+              "Title": "Add.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Admin\\Treatments\\Add.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Treatments\\Add.cshtml.cs",
+              "ToolTip": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Admin\\Treatments\\Add.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin\\Treatments\\Add.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:57:00.623Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Admin\\Treatments\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Admin\\Treatments\\Index.cshtml",
-              "ToolTip": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Admin\\Treatments\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Admin\\Treatments\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-17T13:59:43.315Z",
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Admin\\Tags\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Tags\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Admin\\Tags\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin\\Tags\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:56:55.755Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Admin\\Tags\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Admin\\Tags\\Index.cshtml",
-              "ToolTip": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Admin\\Tags\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Admin\\Tags\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-17T13:59:36.436Z",
+              "Title": "Add.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Admin\\Tags\\Add.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Tags\\Add.cshtml.cs",
+              "ToolTip": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Admin\\Tags\\Add.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin\\Tags\\Add.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:56:50.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Admin\\Consultations\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Consultations\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Admin\\Consultations\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin\\Consultations\\Index.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:56:31.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Invite.cs",
+              "DocumentMoniker": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Admin\\Users\\Invite.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Users\\Invite.cs",
+              "ToolTip": "C:\\Users\\VGD B2\\Desktop\\MEDICAL TRANSCRIPTION SYSTEM\\Pages\\Admin\\Users\\Invite.cs",
+              "RelativeToolTip": "Pages\\Admin\\Users\\Invite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T01:31:42.77Z",
               "EditorCaption": ""
             }
           ]

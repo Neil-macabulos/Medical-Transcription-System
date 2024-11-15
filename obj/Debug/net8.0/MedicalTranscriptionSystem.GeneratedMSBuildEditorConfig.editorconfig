@@ -22,16 +22,20 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ29uc3VsdGF0aW9uc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VGD B2/Desktop/MEDICAL TRANSCRIPTION SYSTEM/Pages/Admin/Tags/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVGFnc1xJbmRleC5jc2h0bWw=
+[C:/Users/VGD B2/Desktop/MEDICAL TRANSCRIPTION SYSTEM/Pages/Admin/Tags/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVGFnc1xBZGQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VGD B2/Desktop/MEDICAL TRANSCRIPTION SYSTEM/Pages/Admin/Treatments/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVHJlYXRtZW50c1xJbmRleC5jc2h0bWw=
+[C:/Users/VGD B2/Desktop/MEDICAL TRANSCRIPTION SYSTEM/Pages/Admin/Tags/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVGFnc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VGD B2/Desktop/MEDICAL TRANSCRIPTION SYSTEM/Pages/Admin/Users/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlcnNcSW5kZXguY3NodG1s
+[C:/Users/VGD B2/Desktop/MEDICAL TRANSCRIPTION SYSTEM/Pages/Admin/Treatments/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVHJlYXRtZW50c1xBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/VGD B2/Desktop/MEDICAL TRANSCRIPTION SYSTEM/Pages/Admin/Treatments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVHJlYXRtZW50c1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/VGD B2/Desktop/MEDICAL TRANSCRIPTION SYSTEM/Pages/Error.cshtml]
@@ -56,6 +60,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/VGD B2/Desktop/MEDICAL TRANSCRIPTION SYSTEM/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/VGD B2/Desktop/MEDICAL TRANSCRIPTION SYSTEM/Pages/Provider/Consultations/AddPatient.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvdmlkZXJcQ29uc3VsdGF0aW9uc1xBZGRQYXRpZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/VGD B2/Desktop/MEDICAL TRANSCRIPTION SYSTEM/Pages/Shared/_ValidationScriptsPartial.cshtml]

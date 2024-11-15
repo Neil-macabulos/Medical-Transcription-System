@@ -5,11 +5,8 @@ namespace MedicalTranscriptionSystem.Pages.Manage.Tags
 {
     public class IndexModel : PageModel
     {
-        public class ViewModel
+        public void OnGet()
         {
-            public Guid? Id { get; set; }
-            public string? Name { get; set; }
-            public string? IsActive { get; set; }
         }
     }
 }

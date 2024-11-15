@@ -2,3 +2,60 @@
 @model MedicalTranscriptionSystem.Pages.Admin.Consultations.IndexModel
 @{
 }
+
+<h2>Patient List</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Email</th>
+            <th>Date of Admission</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var patient in Model.Patients)
+        {
+            <tr>
+                <td>@patient.Name</td>
+                <td>@patient.Age</td>
+                <td>@patient.Email</td>
+                <td>@patient.DateOfAdmission.ToShortDateString()</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h3>Create New Patient</h3>
+
+<form method="post">
+    <div class="form-group">
+        <label for="Name">Name:</label>
+        <input type="text" id="Name" class="form-control" asp-for="NewPatient.Name" />
+        <span asp-validation-for="NewPatient.Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="Age">Age:</label>
+        <input type="number" id="Age" class="form-control" asp-for="NewPatient.Age" />
+        <span asp-validation-for="NewPatient.Age" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="Email">Email:</label>
+        <input type="email" id="Email" class="form-control" asp-for="NewPatient.Email" />
+        <span asp-validation-for="NewPatient.Email" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary" name="action" value="Create">Create Patient</button>
+        <button type="submit" class="btn btn-secondary" name="action" value="Cancel">Cancel</button>
+    </div>
+</form>
+
+<a href="/Index">Back to list</a>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
