@@ -18,6 +18,22 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\VGD B2\Desktop\MEDICAL TRANSCRIPTION SYSTEM
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/VGD B2/Desktop/MEDICAL TRANSCRIPTION SYSTEM/Pages/Admin/Consultations/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ29uc3VsdGF0aW9uc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/VGD B2/Desktop/MEDICAL TRANSCRIPTION SYSTEM/Pages/Admin/Tags/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVGFnc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/VGD B2/Desktop/MEDICAL TRANSCRIPTION SYSTEM/Pages/Admin/Treatments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVHJlYXRtZW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/VGD B2/Desktop/MEDICAL TRANSCRIPTION SYSTEM/Pages/Admin/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/VGD B2/Desktop/MEDICAL TRANSCRIPTION SYSTEM/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
