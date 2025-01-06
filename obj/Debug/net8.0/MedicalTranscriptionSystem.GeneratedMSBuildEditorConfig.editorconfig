@@ -62,12 +62,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFuYWdlXFVzZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/VGD B2/Desktop/MEDICAL TRANSCRIPTION SYSTEM/Pages/Patient/MyConsultations/CreateConsultations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF0aWVudFxNeUNvbnN1bHRhdGlvbnNcQ3JlYXRlQ29uc3VsdGF0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/VGD B2/Desktop/MEDICAL TRANSCRIPTION SYSTEM/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/VGD B2/Desktop/MEDICAL TRANSCRIPTION SYSTEM/Pages/Provider/Consultations/AddPatient.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvdmlkZXJcQ29uc3VsdGF0aW9uc1xBZGRQYXRpZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/VGD B2/Desktop/MEDICAL TRANSCRIPTION SYSTEM/Pages/Provider/PatientProfiles/Consultations.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvdmlkZXJcUGF0aWVudFByb2ZpbGVzXENvbnN1bHRhdGlvbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/VGD B2/Desktop/MEDICAL TRANSCRIPTION SYSTEM/Pages/Public/LandingPage.cshtml]

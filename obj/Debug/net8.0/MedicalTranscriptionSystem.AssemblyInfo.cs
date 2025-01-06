@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MedicalTranscriptionSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dacbb78a714372d15fe9d58fb8cc63ac2516a63e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bc9d8299ac242d5c2ee8182f592225fb07f6c31")]
 [assembly: System.Reflection.AssemblyProductAttribute("MedicalTranscriptionSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MedicalTranscriptionSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
